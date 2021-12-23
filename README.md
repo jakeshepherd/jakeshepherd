@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @jakeshepherd
-- 🌱 I’m currently studying for my final year of a Computer Science Bachelors.
+- 🌱 I have a Computer Science Bachelors after graduating from the University of Bath.
 - 📫 How to reach me:
   - 🌎 http://jakeshepherd.me/
   - 📧 jakeshepherd98@gmail.com
