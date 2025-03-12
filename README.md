@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @jakeshepherd
 - 📫 How to reach me:
   - 📧 jakeshepherd98@gmail.com
-  - 📞 07775595445
+  - 📞 +44 77 7559 5445
 
 <!---
 jakeshepherd/jakeshepherd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
