@@ -1,8 +1,6 @@
 
 - 👋 Hi, I’m @jakeshepherd
-- 🌱 I have a Computer Science Bachelors after graduating from the University of Bath.
 - 📫 How to reach me:
-  - 🌎 http://jakeshepherd.me/
   - 📧 jakeshepherd98@gmail.com
   - 📞 07775595445
 
